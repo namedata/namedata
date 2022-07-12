@@ -1,3 +1,3 @@
 - cat 🐈
-- learning stuff
+- learning languages
 - look at him go 🐈
