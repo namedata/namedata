@@ -1,3 +1,3 @@
-cat 🐈
-learning stuff
-look at him go 🐈
+- cat 🐈
+- learning stuff
+- look at him go 🐈
